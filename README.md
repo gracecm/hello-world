@@ -1,2 +1,2 @@
 # hello-world
-general project stuff
+github opening exercise
